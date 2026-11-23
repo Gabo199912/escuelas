@@ -2,7 +2,7 @@
 
 🚀 **Aplicación web para la administración académica de centros educativos**, diseñada para centralizar los procesos de inscripción, gestión de estudiantes, asignación de cursos, registro de calificaciones y generación de boletas.
 
-El sistema busca facilitar el trabajo administrativo y docente mediante una plataforma organizada, segura y accesible desde dispositivos móviles.
+El sistema busca facilitar el trabajo administrativo y docente mediante una plataforma organizada, segura y accesible desde cualquier dispositivo.
 
 > 🚧 **Estado del proyecto:** En desarrollo. Proyecto personal orientado a aplicar buenas prácticas de ingeniería de software y arquitectura de aplicaciones.
 
@@ -55,7 +55,7 @@ El sistema busca facilitar el trabajo administrativo y docente mediante una plat
 | 🍃 Spring Boot | Desarrollo del backend |
 | 🔒 Spring Security | Autenticación y autorización |
 | ⚛️ React | Desarrollo del frontend |
-| 🐘 PostgreSQL | Sistema gestor de base de datos |
+| ☕ MaryaDb | Sistema gestor de base de datos |
 | 🛠️ Flyway | Control de versiones y migraciones de BD |
 | 📦 Maven | Gestión de dependencias y construcción |
 
